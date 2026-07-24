@@ -1,0 +1,1 @@
+{"name":"York Devils Game Tracker","short_name":"Game Tracker","description":"Offline-first hockey game tracking and analysis","start_url":".","display":"standalone","background_color":"#f3f4f6","theme_color":"#111827","lang":"en","scope":".","orientation":"landscape","icons":[{"src":"assets/game-tracker-icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
